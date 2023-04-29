@@ -4,7 +4,7 @@
 ![NiFi-Kafka](https://github.com/InsightByte/ApacheNifi/blob/main/NiFi-and-Kafka/assets/Read-Write-Kafka.png)
 
 #### See how to install Kafka Locally
-- [Install Kafka Locally](https://youtu.be/qTz5l3UORtA)
+- [Install Kafka Locally](https://youtu.be/h6j6kTsOhGk)
 
 
 
